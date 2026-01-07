@@ -16,13 +16,13 @@
 
 ---
 
-### 2. 项目名称二 (Project Two)
+### 2. Apple sharp整合包
 
-> 在这里简要描述项目 2 的核心功能。例如：一个自动化部署的 Python 脚本工具集。
+> 一个自动化启动Apple sharp 的工具。
 
-* **技术栈**: `Python` `Docker` `GitHub Actions`
-* **项目亮点**: 一键部署、多平台兼容、完善的日志追踪。
-* **🔗 项目链接**: [点击访问项目页面](https://www.google.com/search?q=%E8%BF%99%E9%87%8C%E5%A1%AB%E5%85%A5%E4%BD%A0%E7%9A%84%E5%88%86%E4%BA%AB%E9%93%BE%E6%8E%A5)
+* **技术栈**: `Python` 
+* **项目亮点**: 一键启动，无需配置环境。
+* **🔗 项目链接**: 链接：https://pan.quark.cn/s/93b695566b02?pwd=pua7 提取码：pua7
 
 ---
 
