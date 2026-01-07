@@ -17,7 +17,7 @@
 ---
 ### 1.5 travel map
 > 基于 3D 地球可视化的智能旅行路线生成工具。它利用本地 AI 模型（Ollama/Qwen3）解析自然语言行程，或通过 OCR 识别行程单图片，自动在 CesiumJS 地球上生成动态的旅行路线动画。
-🛠️ 技术栈
+* **🛠️ 技术栈**
 后端: Python 3.12+, FastAPI, Uvicorn
 AI & OCR: Ollama (Qwen3:8b), Tesseract-OCR, Pytesseract
 前端: HTML5, JavaScript, CesiumJS (CDN), TailwindCSS (CDN), Lucide Icons
