@@ -13,8 +13,7 @@
 * **技术栈**: `TailwindCSS`
 * **项目亮点**: 基于 CesiumJS，提供电影级的三维地图展示。
 * 为travel map的精简版，打包为apk
-* **🔗 项目链接**: 链接：https://pan.quark.cn/s/a6da6f010dd5?pwd=Tw53 提取码：Tw53
-
+* **🔗 项目链接**:链接：https://pan.quark.cn/s/82a7e33a40f9?pwd=SsFS  提取码：SsFS 
 ---
 ### 1.5 travel map
 > 基于 3D 地球可视化的智能旅行路线生成工具。它利用本地 AI 模型（Ollama/Qwen3）解析自然语言行程，或通过 OCR 识别行程单图片，自动在 CesiumJS 地球上生成动态的旅行路线动画。
